@@ -1,8 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Abi
 
----
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tinaabishegan)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -27,11 +25,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" />&nbsp;&nbsp;
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&count_private=true&theme=radical" alt="Streak Stats" />
-</p>
 
 ### 📈 GitHub Activity Graph:
 [![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tinaabishegan&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
